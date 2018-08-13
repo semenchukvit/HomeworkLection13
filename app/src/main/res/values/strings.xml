@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeworkLection13</string>
+    <string name="tvFirstNameTitleAdd">First name:</string>
+    <string name="tvLastNameTitleAdd">Last name:</string>
+    <string name="tvAgeTitleAdd">Age:</string>
+    <string name="btnSaveStudentAdd">save</string>
+    <string name="tvFirstNameTitleEdit">First name:</string>
+    <string name="tvLastNameTitleEdit">Last name:</string>
+    <string name="tvAgeTitleEdit">Age:</string>
+    <string name="btnSaveStudentEdit">save</string>
+    <string name="btnDelete">delete student</string>
+</resources>
